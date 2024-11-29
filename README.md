@@ -60,7 +60,7 @@ I am focused on the following key areas in AI research:
 
 Here are some of my recent AI research projects:
 
-### 1. **[AI-Based Autonomous Navigation System]**
+### 1. **AI-Based Autonomous Navigation System**
    - **Description**: An autonomous system for self-driving cars using reinforcement learning and computer vision techniques.
    - **Technologies Used**: Python, PyTorch, OpenCV, Reinforcement Learning.
    - **Key Contributions**:
@@ -68,7 +68,7 @@ Here are some of my recent AI research projects:
      - Evaluated performance under different simulated driving conditions.
    - GitHub Repository](https://github.com/ChegeWilliam/Autonomous-Navigation)
 
-### 2. **[Deep Learning for Sentiment Analysis]**
+### 2. **Deep Learning for Sentiment Analysis**
    - **Description**: Research on building a sentiment analysis model capable of understanding nuanced sentiments in social media data.
    - **Technologies Used**: Python, TensorFlow, BERT, NLP.
    - **Key Contributions**:
@@ -76,7 +76,7 @@ Here are some of my recent AI research projects:
      - Applied in real-time social media data analysis.
    - GitHub Repository](https://github.com/ChegeWilliam/Sentiment-Analysis-Research)
 
-### 3. **[AI for Healthcare: Predicting Disease Outcomes]**
+### 3. **AI for Healthcare: Predicting Disease Outcomes**
    - **Description**: Developing machine learning models to predict health conditions and disease progression based on patient data.
    - **Technologies Used**: Python, Scikit-learn, Keras, Medical Datasets.
    - **Key Contributions**:
@@ -84,7 +84,7 @@ Here are some of my recent AI research projects:
      - Aimed at providing actionable insights to healthcare professionals.
    - GitHub Repository](https://github.com/ChegeWilliam/AI-Healthcare) 
 
-### 4. **[Explainable AI for Model Interpretability]**
+### 4. **Explainable AI for Model Interpretability**
    - **Description**: Research on creating more interpretable deep learning models to improve transparency in AI-driven decisions.
    - **Technologies Used**: Python, SHAP, LIME, Deep Learning Models.
    - **Key Contributions**:
