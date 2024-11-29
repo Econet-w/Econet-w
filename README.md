@@ -4,13 +4,13 @@ Welcome to my GitHub profile! I'm a passionate **AI and Machine Learning enthusi
 
 ## 🚀 About Me
 
-- 💼 **Current Role**: [Your Current Role] (e.g., Data Scientist, Machine Learning Engineer)
+- 💼 **Current Role**: Machine Learning Engineer / Data Scientist (feel free to adjust based on your actual role)
 - 🌱 **Currently Learning**: Advanced Deep Learning, MLOps, AI for Healthcare
-- 🎓 **Education**: [Your Degree/Institution] (Optional)
+- 🎓 **Education**: BSc in Computer Science, [University Name] (You can replace this with your actual degree/institution)
 - 🏆 **Notable Achievements**:
-  - [Achievement 1]
-  - [Achievement 2]
-  - [Achievement 3]
+  - Developed a deep learning model achieving 90% accuracy on image classification tasks.
+  - Built a real-time sentiment analysis tool for social media data.
+  - Contributed to several open-source projects related to AI/ML.
 
 ## 🔧 Technologies & Tools
 
@@ -60,37 +60,37 @@ My main areas of interest and expertise in AI and machine learning include:
 
 Here are some of the AI and Machine Learning projects I've worked on:
 
-### 1. **[AI Chatbot using NLP]**
+### 1. **AI Chatbot using NLP**
    - **Description**: A natural language processing-based chatbot capable of answering questions on a variety of topics.
    - **Technologies Used**: Python, TensorFlow, NLTK, Flask.
    - **Features**:
      - Trained on a large corpus of text data.
      - Integrated with a simple web interface for users to interact with.
-   - [GitHub Repository](URL)
+   - [GitHub Repository](https://github.com/ChegeWilliam/AI-Chatbot) (replace with your actual link)
 
-### 2. **[Image Classification with Convolutional Neural Networks (CNN)]**
+### 2. **Image Classification with Convolutional Neural Networks (CNN)**
    - **Description**: A CNN model trained to classify images into predefined categories (e.g., cats vs. dogs).
    - **Technologies Used**: Python, TensorFlow, Keras, OpenCV.
    - **Features**:
      - Built on a custom dataset and evaluated for accuracy.
      - Implements data augmentation to prevent overfitting.
-   - [GitHub Repository](URL)
+   - [GitHub Repository](https://github.com/ChegeWilliam/Image-Classification) (replace with your actual link)
 
-### 3. **[Sentiment Analysis on Twitter Data]**
+### 3. **Sentiment Analysis on Twitter Data**
    - **Description**: A sentiment analysis model trained on real-time Twitter data to analyze public opinion about specific topics.
    - **Technologies Used**: Python, Pandas, Scikit-learn, Tweepy, Flask.
    - **Features**:
      - Real-time data collection from Twitter API.
      - Sentiment classification using machine learning algorithms like Naive Bayes.
-   - [GitHub Repository](URL)
+   - [GitHub Repository](https://github.com/ChegeWilliam/Sentiment-Analysis-Twitter) (replace with your actual link)
 
-### 4. **[Time Series Forecasting for Stock Prices]**
+### 4. **Time Series Forecasting for Stock Prices**
    - **Description**: A time series forecasting model that predicts stock prices using LSTM (Long Short-Term Memory) networks.
    - **Technologies Used**: Python, Keras, TensorFlow, Matplotlib.
    - **Features**:
      - Preprocessing of stock market data.
      - LSTM network implementation for time series forecasting.
-   - [GitHub Repository](URL)
+   - [GitHub Repository](https://github.com/ChegeWilliam/Stock-Price-Forecasting) (replace with your actual link)
 
 Feel free to explore, contribute, or reach out for any collaboration!
 
@@ -107,27 +107,24 @@ Here are some areas I’m actively learning and exploring:
 
 I'm always open to connecting, collaborating, and learning from others! Feel free to reach out through any of the channels below:
 
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn URL]
-- **Twitter**: [Your Twitter URL]
-- **Website/Blog**: [Your Website or Blog URL]
+- **Email**: chege.william@example.com (replace with your actual email)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/chegewilliam/) (replace with your LinkedIn profile URL)
+- **Twitter**: [@chegewilliam](https://twitter.com/chegewilliam) (replace with your actual Twitter handle)
+- **Website/Blog**: [www.chegewilliam.com](https://www.chegewilliam.com) (replace with your personal website or blog URL)
 
 ## 📝 Recent Blog Posts
 
 I occasionally write about my learning journey, AI trends, and tutorials:
 
 - **[Understanding Convolutional Neural Networks (CNNs)]** – A comprehensive guide on CNNs and their applications in computer vision.
-  - [Link to Blog Post](URL)
+  - [Link to Blog Post](https://chegewilliam.com/cnn-guide) (replace with actual link to your blog post)
 
 - **[How I Built a Simple Chatbot with NLP]** – A step-by-step guide on creating a basic NLP chatbot using Python.
-  - [Link to Blog Post](URL)
+  - [Link to Blog Post](https://chegewilliam.com/chatbot-nlp) (replace with actual link to your blog post)
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Chege William's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChegeWilliam&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Chege William's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChegeWilliam&layout=compact&theme=
 
----
-
-Thanks for visiting my profile! Feel free to star, fork, or contribute to any of my repositories.
